@@ -1,0 +1,14 @@
+C:\Users\kamil94\source\repos\VAPE\VAPE\bin\Debug\VAPE.exe.config
+C:\Users\kamil94\source\repos\VAPE\VAPE\bin\Debug\VAPE.exe
+C:\Users\kamil94\source\repos\VAPE\VAPE\bin\Debug\VAPE.pdb
+C:\Users\kamil94\source\repos\VAPE\VAPE\bin\Debug\FastColoredTextBox.dll
+C:\Users\kamil94\source\repos\VAPE\VAPE\bin\Debug\WeAreDevs_API.dll
+C:\Users\kamil94\source\repos\VAPE\VAPE\obj\Debug\VAPE.csproj.AssemblyReference.cache
+C:\Users\kamil94\source\repos\VAPE\VAPE\obj\Debug\VAPE.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamil94\source\repos\VAPE\VAPE\obj\Debug\VAPE.Form1.resources
+C:\Users\kamil94\source\repos\VAPE\VAPE\obj\Debug\VAPE.Properties.Resources.resources
+C:\Users\kamil94\source\repos\VAPE\VAPE\obj\Debug\VAPE.csproj.GenerateResource.cache
+C:\Users\kamil94\source\repos\VAPE\VAPE\obj\Debug\VAPE.csproj.CoreCompileInputs.cache
+C:\Users\kamil94\source\repos\VAPE\VAPE\obj\Debug\VAPE.csproj.CopyComplete
+C:\Users\kamil94\source\repos\VAPE\VAPE\obj\Debug\VAPE.exe
+C:\Users\kamil94\source\repos\VAPE\VAPE\obj\Debug\VAPE.pdb
