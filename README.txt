@@ -1,0 +1,1 @@
+I made a shortcut for the lazyies and all source code can be found on my github : 
